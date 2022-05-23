@@ -2,7 +2,7 @@
 
 ### I'm an Android Developer!
 
-- 🔝 I'm a native developer for over three years
+- 🔝 I'm a mobile developer for over four years
 - 🌱 I’m currently learning Flutter
 - ⚡ Fun fact: I love to play chess, board and roleplay games
 
@@ -23,6 +23,9 @@
 ### Languages and Tools:
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+
+<img align="left" alt="Flutter" width="78px" src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" />
+
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1374px-Android_logo_2019_%28stacked%29.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
