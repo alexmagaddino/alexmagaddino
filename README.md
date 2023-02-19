@@ -1,6 +1,6 @@
 ## Hi there, I'm Alessandro 👋
 
-### I'm an Mobile Developer!
+### I'm a Mobile Developer!
 
 - 🔝 I'm an Android developer for over five years
 - 🌱 I’m a Flutter developer for over one year
