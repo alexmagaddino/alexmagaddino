@@ -1,9 +1,9 @@
 ## Hi there, I'm Alessandro 👋
 
-### I'm an Android Developer!
+### I'm an Mobile Developer!
 
-- 🔝 I'm a mobile developer for over four years
-- 🌱 I’m currently learning Flutter
+- 🔝 I'm an Android developer for over five years
+- 🌱 I’m a Flutter developer for over one year
 - ⚡ Fun fact: I love to play chess, board and roleplay games
 
 ### Connect with me:
