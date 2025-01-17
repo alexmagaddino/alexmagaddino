@@ -2,8 +2,8 @@
 
 ### Who am I?
 
-- 🔝 An Android developer for over six years
-- 🌱 A Flutter developer for over two years
+- 🔝 An Android developer for over seven years
+- 🌱 A Flutter developer for over three years
 - ⚡ A chess, board, cards and roleplay games lover
 
 ---
